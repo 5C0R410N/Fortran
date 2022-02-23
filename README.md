@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @imimon
+- 👋 Hi, I’m Emon
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning basic python.
+- 🌱 I’m currently learning basic python and Fortran 77,90/95. 
 - 💞️ I’m looking to collaborate on ... nothing...
 - 📫 How to reach me ... why need to reach?
 
