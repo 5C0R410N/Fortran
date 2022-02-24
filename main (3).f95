@@ -1,7 +1,7 @@
 ! 
 ! write a algorithm and draw a flowchart to 
 !find the product of the following series and implement to fortran
-!BY AHIA MASUD EMON
+!BY IFRIT
 
         K=1 
         PROD=1.0
