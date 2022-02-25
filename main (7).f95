@@ -1,0 +1,11 @@
+read*,a,b
+sum=a+b
+product=a*b
+sub=a-b
+div=a/b
+print*,'sum=',sum
+print*,'product=',product
+print*,'sub=',sub
+print*,'div=',div
+STOP
+end 
